@@ -22,4 +22,5 @@
 - Docker & Container
 
 ## Kontakt
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
+📧 mustafa20011@hotmail.de
+[n KONTa](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
