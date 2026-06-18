@@ -14,4 +14,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Meine Projekte
-🔐
+🔐 [Cloud Security Monitor](https://github.com/musti313/cloud-security-monitor) – Erkennt Brute-Force Angriffe in Server-Logs, containerisiert mit Docker
+
+## Aktuell lerne ich neben meinem Studium
+- Cloud Infrastruktur (AWS)
+- Netzwerksicherheit
+- Docker & Container
+
+## Kontakt
+📧 mustafa20011@hotmail.de
